@@ -1,0 +1,37 @@
+.App {
+  min-height: 100vh;
+  background-color: #8B1717;
+  text-align: center;
+}
+
+.App-header {
+  min-height: 8vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.link a {
+  color: white;
+}
+
+.banner-container {
+  background-color: #8B1717;
+  width: 100vw;
+}
+
+.image-container {
+  background-color: #8B1717;
+  width: 100vw;
+}
+
+.banner {
+  width: 100vw;
+  max-width: 500px;
+}
+
+.MuiDivider-root {
+  border-color: white !important;
+}
