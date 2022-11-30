@@ -1,11 +1,10 @@
 import { Grid } from '@mui/material';
-import ImageCarousel from './photos/Carousel';
+import ImageCarousel from './photos/ImageCarousel';
 import './App.css';
 
-function Main() {
+const Main = () => {
   return (
     <>
-    
     <Grid container>
     <div className="banner-container">
       <Grid item xs>

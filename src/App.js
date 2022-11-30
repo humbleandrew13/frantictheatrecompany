@@ -10,7 +10,7 @@ import Footer from './Footer';
 import Productions from './Productions';
 import './App.css';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <Router>
